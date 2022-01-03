@@ -1,8 +1,8 @@
 def sikerese(pontszam):
       if pontszam > 48:
-            print('Sikeres vizsga!')
+            print('Sikerült a vizsga!')
       else:
-            print('A vizsga nem sikerült!')
+            print('A vizsga sajnos nem sikerült!')
 nev=None
 
 while nev !='':
